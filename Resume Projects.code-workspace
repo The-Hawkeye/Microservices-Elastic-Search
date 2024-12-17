@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "order_service"
+		},
+		{
+			"path": "catalog_service"
+		}
+	],
+	"settings": {}
+}
