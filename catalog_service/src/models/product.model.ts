@@ -16,4 +16,4 @@ export class Product {
         // public readonly discountPrice: number,
         public readonly id?: number,
         ) {}
-}
+    }
