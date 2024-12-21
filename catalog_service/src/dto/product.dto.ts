@@ -22,10 +22,10 @@ export class UpdateProductRequest {
 
     name?:string;
 
-    @Min(1)
     price?: number;
 
     description?: string;
 
+    @IsNumber()
     stock?:number
 }
